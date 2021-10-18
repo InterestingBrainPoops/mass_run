@@ -1,0 +1,2 @@
+mod rules;
+fn main() {}
